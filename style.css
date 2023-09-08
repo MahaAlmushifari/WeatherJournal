@@ -1,0 +1,58 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: aquamarine;
+}
+
+#main-content{
+    background-color: rgb(43, 144, 226);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.section{
+    background-color: chocolate;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#title{
+    background-color: rgb(226, 43, 202);
+}
+
+#zip-section{
+    background-color: rgb(208, 226, 43);
+}
+
+
+#feel-section{
+    background-color: rgb(144, 43, 226);
+}
+
+#button-section{
+    background-color: rgb(4, 247, 97);
+}
+
+button{
+    padding: 20px 165px;
+    border-radius: 20px;
+}
+button:hover{
+    box-shadow: 0px 0px 10px rgb(19, 255, 243);
+}
+#result-section{
+    background-color: rgb(251, 255, 0);
+}
+
+input{
+    border-radius: 20px;
+    width: 350px;
+    height: 50px;
+    text-align: center;
+}
+
+#feelings{
+    border-radius: 20px;
+    padding: 20px;
+}
