@@ -74,5 +74,4 @@ eg: the application will not work on shared hosting that runs the application fr
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@menoo20](https://github.com/menoo20) - Idea & Initial work
 
